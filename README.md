@@ -1,6 +1,8 @@
-# uimage
+# Uimage
 
 A new Flutter application.
+
+Simple Image picker From the Gallery and also taken from camera for Crop Function
 
 ## Getting Started
 
